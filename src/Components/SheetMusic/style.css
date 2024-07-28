@@ -1,0 +1,27 @@
+#sheet-music {
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border: 1px solid #EEE; }
+  #sheet-music .jumbotron {
+    position: relative; }
+  #sheet-music .download-icon {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    color: #000;
+    background-color: #999;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 12px !important;
+    text-decoration: none; }
+  #sheet-music .download-icon:hover {
+    color: #007bff; }
+  #sheet-music .bold {
+    font-weight: bold; }
+  #sheet-music .name {
+    margin-top: 10px; }
+  #sheet-music .price {
+    margin-bottom: 20px; }
+
+/*# sourceMappingURL=style.css.map */

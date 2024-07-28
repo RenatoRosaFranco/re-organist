@@ -1,0 +1,14 @@
+#hero {
+  position: relative;
+  background-color: #EEE;
+  padding-top: 210px;
+  padding-bottom: 210px;
+  margin-top: -20px; }
+  #hero h1 {
+    position: relative;
+    font-size: 86px; }
+  #hero p {
+    position: relative;
+    font-size: 24px; }
+
+/*# sourceMappingURL=style.css.map */
