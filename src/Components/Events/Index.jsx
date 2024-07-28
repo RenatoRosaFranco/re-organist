@@ -34,7 +34,7 @@ const Event = ({ event }) => {
 }
 
 const Events = () => {
-    let eventsData = [
+        let eventsData = [
         {
             id: 1,
             name: "I - Bach Concert",

@@ -7,7 +7,8 @@ const Article = ({ article }) => {
     return(
         <div className='col-md-4'>
             <div className="panel panel-default">
-                <div className="panel-heading thumbnail">
+                <div className="panel-heading thumbnail"
+                style={{ backgroundImage: `url(${thumbnail})` }}>
 
                 </div>
                 <div className="panel-body">
